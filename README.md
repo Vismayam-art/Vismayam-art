@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vismayam-art
+- 👋 Hi, I’m Vismaya
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on gdg
